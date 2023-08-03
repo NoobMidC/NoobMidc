@@ -19,9 +19,9 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 <p align="left" >
 <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=onedark"  > </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobMidc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobMidc&layout=compact&align=right)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
+<a href="">Check more about my blog 🌟 </a>
 
 <p align="center">
 <a href="" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
