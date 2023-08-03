@@ -19,7 +19,6 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 <p align="left" >
 <img alt="CX's github stats" src="https://github-readme-stats.vercel.app/api?username=NoobMidc&show_icons=true&theme=tokyonight"  > </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobMidc&layout=compact&align=right)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
