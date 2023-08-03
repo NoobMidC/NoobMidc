@@ -15,9 +15,9 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 
-### Some Stats About Raghav 
+### Some Stats About CX 
 <p align="left" >
-<img alt="cx's github stats" src="https://github-readme-stats.vercel.app/api?username=NoobMidc&show_icons=true&theme=tokyonight"  > </p>
+<img alt="CX's github stats" src="https://github-readme-stats.vercel.app/api?username=NoobMidc&show_icons=true&theme=tokyonight"  > </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobMidc&layout=compact&align=right)](https://github.com/anuraghazra/github-readme-stats)
 
