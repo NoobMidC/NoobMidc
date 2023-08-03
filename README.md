@@ -17,7 +17,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 
 ### Some Stats About Raghav 
 <p align="left" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=merko"  > </p>
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=onedark"  > </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobMidc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
