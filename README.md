@@ -17,13 +17,6 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 
 ### Some Stats About CX 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img alt="CX's github stats" src="https://github-readme-stats.vercel.app/api?username=NoobMidc&show_icons=true&theme=tokyonight"/> 
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobMidc&layout=compact"/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="CX's github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMidc&show_icons=true&theme=tokyonight"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
