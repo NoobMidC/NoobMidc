@@ -15,7 +15,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 
-### Some Stats About Raghav (Public Only)
+### Some Stats About Raghav 
 <p align="center" >
 <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=merko"  > </p>
 
@@ -28,6 +28,5 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 <a href="https://instagram.com/raghav_shukl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
 
-
-⭐️ From [Raghav-byte](https://github.com/Raghav-byte)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobMidc)](https://github.com/anuraghazra/github-readme-stats)
 
