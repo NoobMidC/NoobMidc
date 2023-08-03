@@ -1,7 +1,7 @@
 <p align="Center" ><img src="https://github.com/NoobMidC/pics/blob/main/795fab1e-0d24-4b85-82b6-775b163e302a.gif" height="432px" width ="768px"></p>
 
 
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Raghav <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm cx玄烨0 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at SSIPMT Raipur 👨‍🎓
